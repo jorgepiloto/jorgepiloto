@@ -1,7 +1,7 @@
 Welcome! 🚀
 ===========
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgepiloto&show_icons=true&theme=dark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorgepiloto&show_icons=true">
 
 
 #### About me
