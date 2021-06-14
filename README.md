@@ -1,4 +1,5 @@
 **Jorge Martínez Garrido**
 
-> I am an undergraduate aerospace engineer interested in scientific computing
-applied to the aerospace world, in particular to the orbital mechanics field.
+> I am interested in scientific computing, aerospace engineering, electronics, ham-radio
+>  and classic cryptography. You can tell, without any doubt, that my truly hobby is 
+>  learning whatever kind of subject interests me!
