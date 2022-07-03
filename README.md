@@ -1,4 +1,4 @@
-<p><pre align="center"><strong>Jorge Martínez /</strong> <a href="https://www.jorgemartinez.space">Website</a> / <a href="https://jorgemartinez.space/posts/">Posts</a> / <a href="https://www.linkedin.com/in/jorgepiloto">LinkedIn</a> / <a href="https://jorgepiloto.space/publications">Publications</a> / <a href="https://jorgepiloto.space/contact">Contact</a> / <a href="https://jorgemartinez.space/about/">About</a></pre></p>
+<p><pre align="center"><strong>Jorge Martínez /</strong> <a href="https://www.jorgemartinez.space">Website</a> / <a href="https://jorgemartinez.space/posts/">Posts</a> / <a href="https://www.linkedin.com/in/jorgepiloto">LinkedIn</a> / <a href="https://jorgemartinez.space/publications">Publications</a> / <a href="https://jorgepiloto.space/contact">Contact</a> / <a href="https://jorgemartinez.space/about/">About</a></pre></p>
 
 <a href="https://metrics.lecoq.io/about/jorgepiloto"><img src="metrics-stats.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/jorge"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
