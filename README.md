@@ -1,7 +1,4 @@
-<p><pre align="center"><strong>Jorge Martínez /</strong> <a href="https://www.jorgemartinez.space">Website</a> / <a href="https://jorgemartinez.space/posts/">Posts</a> / <a href="https://www.linkedin.com/in/jorgepiloto">LinkedIn</a> / <a href="https://jorgemartinez.space/publications">Publications</a> / <a href="https://jorgepiloto.space/contact">Contact</a> / <a href="https://jorgemartinez.space/about/">About</a></pre></p>
-
-<a href="https://metrics.lecoq.io/about/jorgepiloto"><img src="metrics-stats.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/jorge"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+<p><pre align="center"><strong>Jorge Martínez /</strong> <a href="https://www.jorgemartinez.space">Website</a> / <a href="https://jorgemartinez.space/posts/">Posts</a> / <a href="https://www.linkedin.com/in/jorgepiloto">LinkedIn</a> / <a href="https://jorgemartinez.space/publications">Publications</a> / <a href="https://jorgemartinez.space/contact">Contact</a> / <a href="https://jorgemartinez.space/about/">About</a></pre></p>
 
 I'm an aerospace engineer interested in computational astrodynamics, orbital
 mechanics and scientific computing. In my free time, I contribute to various
@@ -9,9 +6,28 @@ open-source organizations whose main goal is to enhance the quality of modern
 science.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/banner.png" />
+<img src="https://jorgemartinez.space/about/img/all_logos.png" width="640px">
 </div>
 
-### Latest posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+### Astrodynamics and orbital mechanics
+
+- **[poliastro](https://github.com/poliastro/poliastro)** interactive Astrodynamics and Orbital Mechanics in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/poliastro/poliastro?style=social"> 
+- **[lamberthub](https://github.com/jorgepiloto/lamberthub)** A collection of Lambert's problem solvers implemented in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/lamberthub?style=social"> 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/lamberthub.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_IV.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_I.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_II.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_III.png" width="150px">
+</div>
+
+
+### Ansys and PyAnsys
+
+- **[PyMAPDL](https://github.com/pyansys/pymapdl)** Pythonic interface to MAPDL. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pymapdl?style=social"> 
+- **[PyAEDT](https://github.com/pyansys/pyaedt)** AEDT Python Client Package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pyaedt?style=social"> 
+- **[PyFluent](https://github.com/pyansys/pyfluent)** Pythonic interface to Ansys Fluent. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pyfluent?style=social"> 
+- **[PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide)**  PyAnsys Project Developer's Guide. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/dev-guide?style=social"> 
+- **[ansys-templates](https://github.com/ansys/ansys-templates)** A tool for creating new projects according to Ansys guidelines. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/ansys-templates?style=social"> 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pymapdl.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt_III.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyfluent.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt_II.png" width="150px">
+</div>
