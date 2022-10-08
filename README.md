@@ -31,3 +31,10 @@ science.
 <div align="center">
 <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pymapdl.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt_III.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyfluent.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt_II.png" width="150px">
 </div>
+
+
+### Vim and Neovim
+
+- **[Jorge's Neovim Configuration](https://github.com/jorgepiloto/nvim)** My personal Neovim configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/nvim?style=social"> 
+- **[Volk](https://github.com/jorgepiloto/volk)** A Vim theme made for wolfs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/volk?style=social"> 
+
