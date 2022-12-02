@@ -35,6 +35,7 @@ science.
 
 ### Vim and Neovim
 
-- **[Jorge's Neovim Configuration](https://github.com/jorgepiloto/nvim)** My personal Neovim configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/nvim?style=social"> 
+- **[Vim configuration](https://github.com/jorgepiloto/vimrc)** My personal Vim configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/vimrc?style=social"> 
+- **[Neovim configuration](https://github.com/jorgepiloto/nvim)** My personal Neovim configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/nvim?style=social"> 
 - **[Volk](https://github.com/jorgepiloto/volk)** A Vim theme made for wolfs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/volk?style=social"> 
 
