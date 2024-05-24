@@ -1,6 +1,6 @@
 <p><pre align="center"><strong>Jorge Martínez /</strong> <a href="https://www.jorgemartinez.space">Website</a> / <a href="https://jorgemartinez.space/posts/">Posts</a> / <a href="https://www.linkedin.com/in/jorgepiloto">LinkedIn</a> / <a href="https://jorgemartinez.space/publications">Publications</a> / <a href="https://jorgemartinez.space/contact">Contact</a> / <a href="https://jorgemartinez.space/about/">About</a></pre></p>
 
-I'm an aerospace engineer interested in computational astrodynamics, orbital
+I am an aerospace engineer and astronomer interested in astrodynamics, orbital
 mechanics and scientific computing. In my free time, I contribute to various
 open-source organizations whose main goal is to enhance the quality of modern
 science.
@@ -28,20 +28,28 @@ science.
 
 ### Ansys and PyAnsys
 
-- **[PyMAPDL](https://github.com/pyansys/pymapdl)** Pythonic interface to MAPDL. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pymapdl?style=social"> 
-- **[PyAEDT](https://github.com/pyansys/pyaedt)** AEDT Python Client Package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pyaedt?style=social"> 
-- **[PyFluent](https://github.com/pyansys/pyfluent)** Pythonic interface to Ansys Fluent. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pyfluent?style=social"> 
-- **[PyAnsys Developer's Guide](https://github.com/pyansys/dev-guide)**  PyAnsys Project Developer's Guide. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/dev-guide?style=social"> 
-- **[ansys-templates](https://github.com/ansys/ansys-templates)** A tool for creating new projects according to Ansys guidelines. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/ansys-templates?style=social"> 
+- **[PyMAPDL](mapdl.docs.pyansys.com)** Pythonic interface to MAPDL. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pymapdl?style=social"> 
+- **[PyAEDT](aedt.docs.pyansys.com)** AEDT Python Client Package. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pyaedt?style=social"> 
+- **[PyFluent](fluent.docs.pyansys.com)** Pythonic interface to Ansys Fluent. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pyansys/pyfluent?style=social"> 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pymapdl.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt_III.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyfluent.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/ansys/pyaedt_II.png" width="150px">
+     <img width="128px" src="https://raw.githubusercontent.com/ansys/pyansys/main/doc/source/_static/thumbnails/pysherlock.png" />
+     <img width="128px" src="https://raw.githubusercontent.com/ansys/pyansys/main/doc/source/_static/thumbnails/pysimai.png" />
+     <img width="128px" src="https://raw.githubusercontent.com/ansys/pyansys/main/doc/source/_static/thumbnails/pymechanical.png" />
+     <img width="128px" src="https://raw.githubusercontent.com/ansys/pyansys/main/doc/source/_static/thumbnails/pysystem-coupling.png" />
+     <img width="128px" src="https://raw.githubusercontent.com/ansys/pyansys/main/doc/source/_static/thumbnails/pyrocky.png" />
+     <img width="128px" src="https://raw.githubusercontent.com/ansys/pyansys/main/doc/source/_static/thumbnails/pyansys-geometry.png" />
 </div>
 
+### Publications
 
-### Vim and Neovim
+- **[Lambert's problem algorithms: a critical review](https://github.com/lamberthub/lamberthub/raw/main/art/thesis_jorge.pdf)**
 
-- **[Vim configuration](https://github.com/jorgepiloto/vimrc)** My personal Vim configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/vimrc?style=social"> 
-- **[Neovim configuration](https://github.com/jorgepiloto/nvim)** My personal Neovim configuration. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/nvim?style=social"> 
-- **[Volk](https://github.com/jorgepiloto/volk)** A Vim theme made for wolfs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jorgepiloto/volk?style=social"> 
 
+- **[Interstellar Interceptors. Mission design for rendezvous with objects in hyperbolic orbits.](https://github.com/jorgepiloto/tfm/raw/main/report.pdf)**
+
+<div align="center">
+     <img width="256px" src="https://github.com/jorgepiloto/tfm/blob/main/fig/static/shots/2.png" />
+     <img width="256px" src="https://github.com/jorgepiloto/tfm/blob/main/fig/static/shots/3.png" />
+     <img width="256px" src="https://github.com/jorgepiloto/tfm/blob/main/fig/static/shots/4.png" />
+</div>
