@@ -43,14 +43,26 @@ science.
 
 ### Publications
 
-- **[Lambert's problem algorithms: a critical review](https://github.com/lamberthub/lamberthub/raw/main/art/thesis_jorge.pdf)**
+- **[A critical review on the state-of-the-art of Lambert’s problem](https://github.com/lamberthub/lamberthub/raw/main/art/icatt_report.pdf)**
 
 <div align="center">
      <img width="640px" src="https://jorgemartinez.space/publications/img/icatt_critical_review_lamberts_problem.png" />
 </div>
 
+- **[Lambert's problem algorithms: a critical review](https://github.com/lamberthub/lamberthub/raw/main/art/thesis_jorge.pdf)**
+
+<div align="center">
+     <img width="640px" src="https://jorgemartinez.space/publications/img/final_bachelors_thesis.png" />
+</div>
+
+- **[poliastro: a Python library for interactive astrodynamics](http://conference.scipy.org.s3-website-us-east-1.amazonaws.com/proceedings/scipy2022/pdfs/juanluis_cano_poliastro.pdf)**
+
+<div align="center">
+     <img width="640px" src="https://jorgemartinez.space/publications/img/poliastro_scipy_2022.png" />
+</div>
+
 - **[Interstellar Interceptors. Mission design for rendezvous with objects in hyperbolic orbits.](https://github.com/jorgepiloto/tfm/raw/main/report.pdf)**
 
 <div align="center">
-     <img width="640px" src="https://jorgemartinez.space/publications/img/icatt_critical_review_lamberts_problem.png" />
+     <img width="640px" src="https://jorgemartinez.space/publications/img/final_masters_thesis.png" />
 </div>
