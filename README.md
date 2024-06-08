@@ -45,11 +45,12 @@ science.
 
 - **[Lambert's problem algorithms: a critical review](https://github.com/lamberthub/lamberthub/raw/main/art/thesis_jorge.pdf)**
 
+<div align="center">
+     <img width="640px" src="https://jorgemartinez.space/publications/img/icatt_critical_review_lamberts_problem.png" />
+</div>
 
 - **[Interstellar Interceptors. Mission design for rendezvous with objects in hyperbolic orbits.](https://github.com/jorgepiloto/tfm/raw/main/report.pdf)**
 
 <div align="center">
-     <img width="256px" src="https://github.com/jorgepiloto/tfm/blob/main/fig/static/shots/2.png" />
-     <img width="256px" src="https://github.com/jorgepiloto/tfm/blob/main/fig/static/shots/3.png" />
-     <img width="256px" src="https://github.com/jorgepiloto/tfm/blob/main/fig/static/shots/4.png" />
+     <img width="640px" src="https://jorgemartinez.space/publications/img/icatt_critical_review_lamberts_problem.png" />
 </div>
