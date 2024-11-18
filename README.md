@@ -1,5 +1,8 @@
 <p><pre align="center"><strong>Jorge Martínez /</strong> <a href="https://www.jorgemartinez.space">Website</a> / <a href="https://jorgemartinez.space/posts/">Posts</a> / <a href="https://www.linkedin.com/in/jorgepiloto">LinkedIn</a> / <a href="https://jorgemartinez.space/publications">Publications</a> / <a href="https://jorgemartinez.space/contact">Contact</a> / <a href="https://jorgemartinez.space/about/">About</a></pre></p>
 
+<img src="https://mariaponzela.com/images/Footer.gif">
+
+
 I am an aerospace engineer and astronomer interested in astrodynamics, orbital
 mechanics and scientific computing. In my free time, I contribute to various
 open-source organizations whose main goal is to enhance the quality of modern
