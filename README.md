@@ -22,7 +22,8 @@ science.
 ### Astrodynamics and orbital mechanics
 
 - **[poliastro](https://github.com/poliastro/poliastro)** interactive Astrodynamics and Orbital Mechanics in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/poliastro/poliastro?style=social"> 
-- **[lamberthub](https://github.com/lamberthub/lamberthub)** A collection of Lambert's problem solvers implemented in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lamberthub/lamberthub?style=social"> 
+- **[lamberthub](https://github.com/lamberthub/lamberthub)** A collection of Lambert's problem solvers implemented in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lamberthub/lamberthub?style=social">
+- **[PySTK](https://github.com/ansys/pystk).** The next generation Python API for Systems Tool Kit (STK).  <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ansys/pystk?style=social">
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/lamberthub.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_IV.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_I.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_II.png" width="150px"> <img src="https://raw.githubusercontent.com/jorgepiloto/jorgepiloto/master/img/astro/poliastro_III.png" width="150px">
